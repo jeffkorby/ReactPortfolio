@@ -1,12 +1,17 @@
-.navbar {
-    background: #6a1b9a;
+.bgtea {
+    background-color: #9BC59D;
     height: 60px;
+    padding-top: .5rem;
+    padding-left: .75rem;
+    padding-bottom: .75rem;
+    margin-bottom: .75rem;
   }
   
-  .navbar a {
-    color: white;
-    font-size: 1.3rem;
+  .name {
+    padding-top: .5rem;
+    padding-bottom: .75rem;
+    margin-right: 2.5rem;
+    font-size: 1.85rem;
     text-decoration: none;
-    margin: 5px;
-    line-height: 3;
+    white-space: nowrap;
   }
