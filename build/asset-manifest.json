@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.9f98eb0d.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.9f98eb0d.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.1c8e45fb.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.1c8e45fb.js.map",
+    "static/css/2.660e734c.chunk.css": "/ReactPortfolio/static/css/2.660e734c.chunk.css",
+    "static/js/2.7c027d24.chunk.js": "/ReactPortfolio/static/js/2.7c027d24.chunk.js",
+    "static/js/2.7c027d24.chunk.js.map": "/ReactPortfolio/static/js/2.7c027d24.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/2.660e734c.chunk.css.map": "/ReactPortfolio/static/css/2.660e734c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ReactPortfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7c027d24.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.7c027d24.chunk.js.LICENSE.txt",
+    "static/media/MyResume.54eb3b93.pdf": "/ReactPortfolio/static/media/MyResume.54eb3b93.pdf",
+    "static/media/avatar.e19e31c9.png": "/ReactPortfolio/static/media/avatar.e19e31c9.png",
+    "static/media/budgetscreenshot.bb8c2bba.PNG": "/ReactPortfolio/static/media/budgetscreenshot.bb8c2bba.PNG",
+    "static/media/capamericamc2_442.bb3d3895.jpg": "/ReactPortfolio/static/media/capamericamc2_442.bb3d3895.jpg",
+    "static/media/downloadicon.2cc48ab3.png": "/ReactPortfolio/static/media/downloadicon.2cc48ab3.png",
+    "static/media/fitnesstrackerscreenshot.2bfa30bb.PNG": "/ReactPortfolio/static/media/fitnesstrackerscreenshot.2bfa30bb.PNG",
+    "static/media/minesweeperscreenshot.4de3c10a.PNG": "/ReactPortfolio/static/media/minesweeperscreenshot.4de3c10a.PNG",
+    "static/media/notetakerscreenshot.1d6b9f7e.PNG": "/ReactPortfolio/static/media/notetakerscreenshot.1d6b9f7e.PNG",
+    "static/media/schedulerappscreenshot.5790a0e4.PNG": "/ReactPortfolio/static/media/schedulerappscreenshot.5790a0e4.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c8e45fb.js",
+    "static/css/2.660e734c.chunk.css",
+    "static/js/2.7c027d24.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9f98eb0d.chunk.js"
+  ]
+}

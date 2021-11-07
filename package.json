@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jeffkorby.github.io/ReactPortfolio/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -30,6 +31,7 @@
     "css-deploy": "npm run css-build && npm run css-postcss",
     "css-postcss": "postcss --use autoprefixer --output css/main.css css/main.css",
     "css-watch": "npm run css-build -- --watch",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "js-build": "babel _javascript --out-dir lib",
     "js-watch": "npm run js-build -- --watch"
@@ -51,5 +53,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
