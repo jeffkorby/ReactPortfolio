@@ -1,5 +1,8 @@
 import React from 'react';
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
+import myresume from '../assets/MyResume.pdf'
+import downloadicon from '../assets/images/downloadicon.png'
+import avatar from '../assets/images/avatar.png'
 
 
 function Navbar({ currentPage, handlePageChange }) {
@@ -7,7 +10,7 @@ function Navbar({ currentPage, handlePageChange }) {
       <nav class="navbar is-info is-spaced has-shadow" role="navigation" aria-label="main navigation">
         <div class="navbar-brand">
                 <figure class="image is-96x96">
-                    <img class="image is-rounded is-full-width" src="avatar.png" alt=""/>
+                    <img class="image is-rounded is-full-width" src={avatar} alt=""/>
                 </figure>
         </div>
         <div class="navbar-menu">
@@ -50,9 +53,9 @@ function Navbar({ currentPage, handlePageChange }) {
             <div class="navbar-item">
                 <div class="field is-grouped">
                     <p class="control">
-                        <a class="button is-primary" type="download" href="./" download="MyResume.pdf">
-                            <span class="icon">
-                              <i class="fas fa-download is-size-5"></i>
+                        <a class="button is-primary" type="download" href={myresume} download={myresume}>
+                            <span class="icon" href={downloadicon}>
+                              <i href={downloadicon} class="fas fa-download is-size-5"></i>
                             </span>
                             <span class="has-text-weight-bold is-size-4">Resume</span>
                         </a>
