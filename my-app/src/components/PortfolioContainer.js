@@ -4,6 +4,7 @@ import Skills from './pages/Skills';
 import About from './pages/About';
 import Projects from './pages/Projects';
 import Contact from './pages/Contact';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export default function PortfolioContainer() {
     const [currentPage, setCurrentPage] = useState('About');
